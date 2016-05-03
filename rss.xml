@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Alectronica]]></title>
-        <description><![CDATA[Alectronica]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Make the internet weird again.]]></title>
+        <description><![CDATA[Make the internet weird again.]]></description>
+        <link>https://thegrid.ai/alectronica/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 06:23:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 May 2016 07:08:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alectronica/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Gyrating between pentatonic scales, Steely Dan-esque guitar solos, and plenty of reverb, this mix powered me through getting dinner prepped:</p>]]></description>
+            <link>https://thegrid.ai/alectronica/gyrating-between-pentatonic-scales-steely-dan-esque-guitar/index.html</link>
+            <guid isPermaLink="false">2269422b-fed9-45cb-8391-c763736733c4</guid>
+            <pubDate>Tue, 03 May 2016 07:08:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f477814-774d-4a30-9864-a90abb21f8ed.png">]]></description>
-            <link>undefined4abcc1fc-9a77-40ba-8e2e-cbf11c7803b7/index.html</link>
+            <link>https://thegrid.ai/alectronica/4abcc1fc-9a77-40ba-8e2e-cbf11c7803b7/index.html</link>
             <guid isPermaLink="false">4abcc1fc-9a77-40ba-8e2e-cbf11c7803b7</guid>
             <pubDate>Tue, 03 May 2016 06:23:35 GMT</pubDate>
         </item>
