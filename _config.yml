@@ -1,0 +1,28 @@
+name: Alectronica
+favicon: null
+layout_spectrum: 0.027897227788344026
+typography_spectrum: 0.17534963111393154
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.36526109208352864
+  lightness: 0.49913883465342224
+  saturation: 0.418879565782845
+  rhythmicContrast: 0.3457206089515239
+purpose: []
